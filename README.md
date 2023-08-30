@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/0xmanafix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xmanafix" height="30" width="40" /></a>
 <a href="https://discord.gg/FGrT3wBYMa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="FGrT3wBYMa" height="30" width="40" /></a>
-<a href="https://megawatt.t.me" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="megawatt" height="30" width="40" /></a>
+<a href="https://megawatt.t.me" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.logodownload.org%2Ftelegram-logo%2F&psig=AOvVaw02CmnQoyOvMTFij24JFTb5&ust=1693488336892000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMDMi-e9hIEDFQAAAAAdAAAAABAd" alt="megawatt" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
