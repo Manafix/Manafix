@@ -7,7 +7,7 @@
 
 <p align="center"> <a href="https://twitter.com/0xmanafix" target="blank"><img src="https://img.shields.io/twitter/follow/0xmanafix?logo=twitter&style=for-the-badge" alt="0xmanafix" /></a> </p>
 
-- 🔭 I’m currently working on [Megawatt's API](https://megawatt.pro)
+- 🔭 I’m currently working on [Megawatt's API](https://megawatt.top)
 
 - 🌱 I’m currently learning **TypeScript and Solidity**
 
