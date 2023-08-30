@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **TypeScript and Solidity**
 
-- 👨‍💻 All of my projects are available at [https://manafix.dev](https://manafix.dev)
+- 👨‍💻 Some of my projects are available at [https://manafix.dev](https://manafix.dev)
 
 - 💬 Ask me about **Scrapping**
 
